@@ -1,0 +1,39 @@
+
+body{
+  background-color: #e0ffff;
+}
+
+
+#btn{
+  width: 500px;
+  height: 200px;
+  background-color: #ffff00;
+  margin: 80px auto;
+  text-align: center;
+  color: #dc143c;
+  font-size: 50px;
+  font-weight: bold;
+  box-shadow: 0 10px 0 #ffd700;
+  user-select: none;
+  line-height: 200px;
+}
+
+#clickshitene{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+
+#btn:hover{
+  opacity: 0.9;
+}
+
+#btn:active{
+  box-shadow: 0 0 0 #ffd700;
+  margin-top: 90px;
+}
+
+.none{
+  display: none;
+}
